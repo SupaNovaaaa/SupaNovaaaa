@@ -1,5 +1,10 @@
+# About Me
 ## Hi there 👋
-## I am Adishree, an aspiring backend developer
+## A beginner who just start with her tech journey
+## Currently learning full stack web dev
+## known skills 
+
+
 <!--
 **SupaNovaaaa/SupaNovaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
